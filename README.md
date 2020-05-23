@@ -10,6 +10,6 @@ The purpose of this project is to identify and classify images into one of the 5
 # Advantage
 
 I have implemented semi-supervised learning where I am using unlabelled data initially to extract important data from it and adding that to one of the 5 categories (labels). This helps in including important features that might help in the classification task and it also helps to discard images that are bad or that do not belong to any of the 5 classes.
-Transfer learning using a pre-trained VGG-16 model is carried out to classify the soybean images. \
+Transfer learning using a pre-trained VGG-16 model is carried out to classify the soybean images. 
 
 This was a competition project in association with the Agricultural Department at NC State University. Our group had the best classification accuracy of 82%
